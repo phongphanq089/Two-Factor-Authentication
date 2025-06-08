@@ -1,0 +1,9 @@
+{"_id":"c4ac88e8-16a8-4b63-9bfb-90f5269e2aa7","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749376670245","is_2fa_verified":true,"last_login":"2025-06-08T09:58:02.896Z"}
+{"_id":"c7064ff6-d8e9-4171-bc4a-78193f02ffee","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749387454323","is_2fa_verified":true,"last_login":"2025-06-08T12:57:40.459Z"}
+{"_id":"da06faa7-5e37-473c-be0a-a140165aa25b","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749377646607","is_2fa_verified":true,"last_login":"2025-06-08T10:14:15.072Z"}
+{"$$indexCreated":{"fieldName":"user_id","unique":false,"sparse":false}}
+{"_id":"c4ac88e8-16a8-4b63-9bfb-90f5269e2aa7","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749376670245","is_2fa_verified":true,"last_login":"2025-06-08T09:58:02.896Z"}
+{"_id":"c7064ff6-d8e9-4171-bc4a-78193f02ffee","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749387454323","is_2fa_verified":true,"last_login":"2025-06-08T12:57:40.459Z"}
+{"_id":"da06faa7-5e37-473c-be0a-a140165aa25b","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749377646607","is_2fa_verified":true,"last_login":"2025-06-08T10:14:15.072Z"}
+{"$$deleted":true,"_id":"c7064ff6-d8e9-4171-bc4a-78193f02ffee"}
+{"_id":"b8a1fe6e-1f42-4421-9ac2-706f73e2ca26","user_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","device_id":"web-browser-1749388109679","is_2fa_verified":true,"last_login":"2025-06-08T13:08:34.620Z"}

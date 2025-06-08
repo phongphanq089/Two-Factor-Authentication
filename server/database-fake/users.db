@@ -1,0 +1,4 @@
+{"_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","email":"phongphanq089@gmail.com","password":"$2b$10$RnU6WAUcH9JGpGYEaiyhuOTAmEhNaTFmqz3heBgy1MQN.lx03dnvG","username":"phongphanq089","youtube":"https://fastify.dev","require_2fa":true}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
+{"_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","email":"phongphanq089@gmail.com","password":"$2b$10$RnU6WAUcH9JGpGYEaiyhuOTAmEhNaTFmqz3heBgy1MQN.lx03dnvG","username":"phongphanq089","youtube":"https://fastify.dev","require_2fa":false}
+{"_id":"cb454e5d-daee-4134-ae2c-afee5ff65884","email":"phongphanq089@gmail.com","password":"$2b$10$RnU6WAUcH9JGpGYEaiyhuOTAmEhNaTFmqz3heBgy1MQN.lx03dnvG","username":"phongphanq089","youtube":"https://fastify.dev","require_2fa":true}
